@@ -7,3 +7,4 @@ matplotlib
 seaborn
 pillow
 rich
+h5py
